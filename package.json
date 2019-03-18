@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "caress-server": "^0.2.1",
+    "socket.io": "^2.2.0"
+  }
+}
